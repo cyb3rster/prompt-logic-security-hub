@@ -1,4 +1,4 @@
-# Copyright (C) 2026 Umer Imran <cybersec716@gmail.com>. Licensed under the GNU GPL v3.
+# Copyright (C) 2026 Umer Imran. Licensed under the GNU GPL v3.
 <h1 align="center">🛡️ The Prompt Logic & Security Research Hub</h1>
 
 <p align="center">
@@ -88,6 +88,7 @@ We welcome contributions from the global security community.
 <p align="center">
   <sub>⭐ Drop a star if this research vault helps your workflow! 🛡️</sub>
 </p>
+
 
 
 
