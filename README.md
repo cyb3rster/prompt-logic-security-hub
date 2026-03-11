@@ -74,20 +74,18 @@ We welcome contributions from the global security community.
 
 ### 🔗 CONNECT WITH ME
 <p align="left">
-  <a href="https://x.com/cyb3rster" target="_blank">
+  <a href="https://linkedin.com/cyb3rster" target="_blank">
     <img src="https://img.shields.io/badge/X-cyb3rster-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/cyb3rster" target="_blank">
+  <a href="https://linkedin.com/users/umerimran-cs" target="_blank">
     <img src="https://img.shields.io/badge/Discord-cyb3rster-blue?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:umerimran716@gmail.com">
-    <img src="https://img.shields.io/badge/Email-umerimran716-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <sub>⭐ Drop a star if this research vault helps your workflow! 🛡️</sub>
 </p>
+
 
 
 
